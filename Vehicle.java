@@ -1,7 +1,9 @@
 class Vehicle {
-   String coloroftheVehicle ="White"
-     int makeyear =2002 
-
+   String color;
+   int makeyear;
+   String Model;
+   int Year;
+   
   }
     
     
